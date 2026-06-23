@@ -2,5 +2,5 @@
  welcome to git learning classes
  we can discuss about git hub topics clearly
  it was useful to connect repositories
- 
-
+ so every topic is important
+now start with git repository 
