@@ -1,3 +1,6 @@
  hi darlings
  welcome to git learning classes
+ we can discuss about git hub topics clearly
+ it was useful to connect repositories
+ 
 
